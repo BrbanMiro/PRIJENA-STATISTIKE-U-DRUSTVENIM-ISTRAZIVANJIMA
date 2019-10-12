@@ -18,7 +18,7 @@ output:
 - Nastava iz obveznog kolegija **Primjena statistike u društvenim istraživanjima** sastoji se od dva sata predavanja i dva sata seminara tjedno (7 ECTS). 
 - Predavanja se održavaju u blok satima (dva školska sata od 45 min) kao i seminar.
 - Pohađanje nastave (i predavanja i seminara) je obavezno i evidentira se. 
-- Predavanje se održava ponedjeljkom od 16:00 do 17:30 u a seminar odmah iza predavanja od 17:30 do 19:00 u dvorani XX. 
+- Predavanje se održava ponedjeljkom od 16:00 do 17:30 u a seminar odmah iza predavanja od 17:30 do 19:00 u dvorani Split. 
 - Tijekom nastave, molim studente da ne koriste mobitele i ne izlaze iz dvorane.
 
 
