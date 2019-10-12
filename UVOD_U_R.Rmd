@@ -1,0 +1,26 @@
+---
+title: "UVod U R"
+subtitle: "Hrvatski studiji"
+institute: "Preddiplomski studij sociologije"
+author: "dr.sc. Luka Šikić"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+font: 10pt
+output: 
+  beamer_presentation:
+    theme: "Szeged"
+    colortheme: "beaver"
+    fonttheme: "structurebold"
+---
+
+
+## OSNOVNE RAČUNSKE OPERACIJE
+
+
+
+
+
+## VEKTORI
+
+
+## LOGIČKI OPERATORI
+
